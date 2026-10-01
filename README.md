@@ -1,2 +1,13 @@
 # Data-Science-Portfolio
-Main  portfolio for various data science projects.
+A collection of data-science projects.
+
+## Contents
+
+### Machine Learning
+
+
+### SQL
+
+
+### Power BI
+
