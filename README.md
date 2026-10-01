@@ -14,7 +14,7 @@ A collection of data-science projects.
 *Tools: PyTorch, scikit-learn, Pandas, Seaborn, Matplotlib*
 
 ### SQL
-
+- [**D2C Skincare Analysis**](./D2C-Skincare-Analysis/): A SQL analysis of a D2C skincare product.
 
 ### Power BI
 
