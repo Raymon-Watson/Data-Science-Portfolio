@@ -28,7 +28,7 @@ Analysed the classic Titanic Survival Prediction problem in detail, performing e
 Analysed customer and transaction data using joins, CTEs, aggregations, window functions, and business-focused queries.
 
 
-[View project →](./Titanic-Kaggle/)
+[View project →](./D2C-Skincare-Analysis/)
 
 ### 🏠 AirBnB Listing Price Prediction
 **Regression | Python | scikit-learn**
