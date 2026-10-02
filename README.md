@@ -91,9 +91,8 @@ I'm now applying those skills to data science and analytics.
 
 
 
-
 ## 📫 Get in Touch
 
 I'm interested in opportunities in **data science, data analytics, machine learning, and quantitative modelling**, particularly where strong analytical problem-solving is valued.
 
-Feel free to connect with me on LinkedIn or explore my projects here on GitHub.
+Feel free to connect with me on LinkedIn or email me.
