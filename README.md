@@ -10,12 +10,13 @@ A collection of data-science projects.
 - [**AirBnB Pricing Prediction**](./AirBnB-Pricing/): A short regression project on pricing of AirBnB listings.
   - *Algorithms*: Linear Regression, KNN, Random Forest
   - *Metrics*: R2 Score, MSE, MAE
-- [**CNN Project**]: **Coming Soon**
+- CNN Project: **Coming Soon**
 
 *Tools: PyTorch, scikit-learn, Pandas, Seaborn, Matplotlib*
 
 ### SQL
 - [**D2C Skincare Analysis**](./D2C-Skincare-Analysis/): A SQL analysis of a D2C skincare product.
+- [**Bike Store Analysis**](./Bike-Store-Analysis/): A SQL analysis of a Bike Store.
 
 ### Power BI
 - **Coming Soon**
