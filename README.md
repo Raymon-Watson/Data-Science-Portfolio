@@ -1,22 +1,39 @@
 # Data Science Portfolio
-A collection of data-science projects.
 
-## Contents
+## Hi, I'm Raymon Watson
+Physics researcher transitioning into data science and analytics.
 
-### Machine Learning
-- [**Titanic Survival Prediction**](./Titanic-Kaggle/): Binary classification of passenger survival aboard the maiden voyage of the RMS Titanic.
-  - *Algorithms*: Logistic Regression, Decision Tree, Random Forest, SVM, KNN
-  - *Metrics*: Accuracy, Precision, Recall, F1, ROC-AUC, Confusion Matrix
-- [**AirBnB Pricing Prediction**](./AirBnB-Pricing/): A short regression project on pricing of AirBnB listings.
-  - *Algorithms*: Linear Regression, KNN, Random Forest
-  - *Metrics*: R2 Score, MSE, MAE
-- CNN Project: **Coming Soon**
+This repository contains a set of data science projects - completed for self-learning - using Python, SQL, machine learning methods, and Power BI to analyse data, build predictive models and communicate results.
 
-*Tools: PyTorch, scikit-learn, Pandas, Seaborn, Matplotlib*
+## Selected Projects
 
-### SQL
-- [**D2C Skincare Analysis**](./D2C-Skincare-Analysis/): A SQL analysis of a D2C skincare product.
-- [**Bike Store Analysis**](./Bike-Store-Analysis/): A SQL analysis of a Bike Store.
+### 🔍 Titanic Survival Prediction
+Classification | Python | scikit-learn
+[View project →](./Titanic-Kaggle/)
 
-### Power BI
-- **Coming Soon**
+### 🗄️ D2C Skincare Analysis
+PostgreSQL | SQL
+[View project →](./Titanic-Kaggle/)
+
+### 🏠 AirBnB Listing Price Prediction
+Regression | Python | scikit-learn
+[View project →](./AirBnB-Pricing/)
+
+### ⚡ Queensland Energy Market Analysis
+Python | Time Series | Power BI | DAX
+**Coming Soon**
+
+### 🛒 Bike Store Analysis
+PostgreSQL | SQL
+**Coming Soon**
+
+### 🤖 MNIST Image Recognition
+Classification | Python | scikit-learn | Neural Networks
+**Coming Soon**
+
+## Skills
+
+Python • pandas • NumPy • scikit-learn  
+SQL • PostgreSQL  
+Power BI • DAX • Excel  
+Git • GitHub
