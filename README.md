@@ -10,8 +10,6 @@ I'm a physics researcher transitioning into **data science and analytics**, with
 This repository contains a set of data science projects - completed for self-learning - using **Python, SQL, machine learning, and Power BI** to analyse data, build predictive models and communicate results.
 
 
-I'm currently building projects using **Python, SQL, machine learning, and Power BI**, with a focus on turning data into clear, practical insights.
-
 ---
 
 ## 🚀 Selected Projects
@@ -81,7 +79,6 @@ Statistical analysis · Numerical & Mathematical modelling · Scientific computi
 - Improving my Power BI and DAX skills
 - Developing practical machine learning projects
 - Applying statistical modelling to real-world datasets
-- Exploring energy, finance, and business analytics projects
 
 
 ## 👨‍🔬 Background
