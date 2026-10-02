@@ -5,44 +5,6 @@ Physics researcher transitioning into data science and analytics.
 
 This repository contains a set of data science projects - completed for self-learning - using Python, SQL, machine learning methods, and Power BI to analyse data, build predictive models and communicate results.
 
-## Selected Projects
-
-### 🔍 Titanic Survival Prediction
-Classification | Python | scikit-learn
-
-[View project →](./Titanic-Kaggle/)
-
-### 🗄️ D2C Skincare Analysis
-PostgreSQL | SQL
-
-[View project →](./Titanic-Kaggle/)
-
-### 🏠 AirBnB Listing Price Prediction
-Regression | Python | scikit-learn
-
-[View project →](./AirBnB-Pricing/)
-
-### ⚡ Queensland Energy Market Analysis
-Python | Time Series | Power BI | DAX
-
-**Coming Soon**
-
-### 🛒 Bike Store Analysis
-PostgreSQL | SQL
-
-**Coming Soon**
-
-### 🤖 MNIST Image Recognition
-Classification | Python | scikit-learn | Neural Networks
-
-**Coming Soon**
-
-## Skills
-
-Python • pandas • NumPy • scikit-learn  
-SQL • PostgreSQL  
-Power BI • DAX • Excel  
-Git • GitHub
 
 
 
@@ -57,39 +19,39 @@ I'm currently building projects using **Python, SQL, machine learning, and Power
 
 ## 🚀 Selected Projects
 
-### 🏠 Property Price Prediction
-**Python | pandas | scikit-learn | Regression**
+### 🔍 Titanic Survival Prediction
+**Classification | Python | scikit-learn**
 
-Built and evaluated regression models to predict property prices, including feature engineering, target transformation, model tuning, and error analysis.
+[View project →](./Titanic-Kaggle/)
 
-[View Project →](#)
-
----
-
-### 📊 Retail Sales & Profitability Dashboard
-**Power BI | DAX | Data Modelling**
-
-Interactive dashboard exploring revenue, profit, product performance, regional trends, and customer behaviour.
-
-[View Project →](#)
-
----
-
-### 🛒 Customer & Sales Analysis
+### 🗄️ D2C Skincare Analysis
 **PostgreSQL | SQL**
 
 Analysed customer and transaction data using joins, CTEs, aggregations, window functions, and business-focused queries.
 
-[View Project →](#)
 
----
+[View project →](./Titanic-Kaggle/)
 
-### ⚡ Energy Market Analysis
-**Python | Time Series | Data Visualisation**
+### 🏠 AirBnB Listing Price Prediction
+**Regression | Python | scikit-learn**
 
-Analysis of electricity market or demand data, with a focus on trends, forecasting, and communicating key insights.
+Built and evaluated regression models to predict property prices, including feature engineering, target transformation, model tuning, and error analysis.
 
-**Cm
+
+[View project →](./AirBnB-Pricing/)
+
+### ⚡ Queensland Energy Market Analysis
+**Power BI | DAX | Data Modelling**
+
+**Coming Soon**
+
+### 🛒 Bike Store Analysis
+PostgreSQL | SQL
+
+**Coming Soon**
+
+### 🤖 MNIST Image Recognition
+Classification | Python | scikit-learn | Neural Networks
 
 ---
 
@@ -108,7 +70,7 @@ Power BI · DAX · Excel
 Git · GitHub · Jupyter Notebook
 
 **Quantitative Background**  
-Statistical analysis · Numerical modelling · Scientific computing · Mathematical modelling
+Statistical analysis · Numerical & Mathematical modelling · Scientific computing
 
 ---
 
