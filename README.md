@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-# Hi, I'm Raymon 👋
+## Hi, I'm Raymon 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/raymon-watson-56087419b)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/Raymon-Watson)
