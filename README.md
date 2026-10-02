@@ -9,6 +9,7 @@ This repository contains a set of data science projects - completed for self-lea
 
 ### 🔍 Titanic Survival Prediction
 Classification | Python | scikit-learn
+
 [View project →](./Titanic-Kaggle/)
 
 ### 🗄️ D2C Skincare Analysis
