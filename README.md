@@ -14,22 +14,27 @@ Classification | Python | scikit-learn
 
 ### 🗄️ D2C Skincare Analysis
 PostgreSQL | SQL
+
 [View project →](./Titanic-Kaggle/)
 
 ### 🏠 AirBnB Listing Price Prediction
 Regression | Python | scikit-learn
+
 [View project →](./AirBnB-Pricing/)
 
 ### ⚡ Queensland Energy Market Analysis
 Python | Time Series | Power BI | DAX
+
 **Coming Soon**
 
 ### 🛒 Bike Store Analysis
 PostgreSQL | SQL
+
 **Coming Soon**
 
 ### 🤖 MNIST Image Recognition
 Classification | Python | scikit-learn | Neural Networks
+
 **Coming Soon**
 
 ## Skills
