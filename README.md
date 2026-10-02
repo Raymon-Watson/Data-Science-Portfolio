@@ -1,17 +1,11 @@
 # Data Science Portfolio
 
-## Hi, I'm Raymon Data Science Portfolio
-Physics researcher transitioning into data science and analytics.
-
-This repository contains a set of data science projects - completed for self-learning - using Python, SQL, machine learning methods, and Power BI to analyse data, build predictive models and communicate results.
-
-
-
-
-
 # Hi, I'm Raymon 👋
 
 I'm a physics researcher transitioning into **data science and analytics**, with a background in numerical modelling, quantitative research, and scientific computing.
+
+This repository contains a set of data science projects - completed for self-learning - using **Python, SQL, machine learning, and Power BI** to analyse data, build predictive models and communicate results.
+
 
 I'm currently building projects using **Python, SQL, machine learning, and Power BI**, with a focus on turning data into clear, practical insights.
 
@@ -21,6 +15,8 @@ I'm currently building projects using **Python, SQL, machine learning, and Power
 
 ### 🔍 Titanic Survival Prediction
 **Classification | Python | scikit-learn**
+
+Analysed the classic Titanic Survival Prediction problem in detail, performing exploratory data analysis, data cleaning, and extensive modelling.
 
 [View project →](./Titanic-Kaggle/)
 
@@ -35,7 +31,7 @@ Analysed customer and transaction data using joins, CTEs, aggregations, window f
 ### 🏠 AirBnB Listing Price Prediction
 **Regression | Python | scikit-learn**
 
-Built and evaluated regression models to predict property prices, including feature engineering, target transformation, model tuning, and error analysis.
+Built and evaluated regression models to predict AirBnB listing prices, including feature engineering, target transformation, and model tuning.
 
 
 [View project →](./AirBnB-Pricing/)
@@ -46,12 +42,14 @@ Built and evaluated regression models to predict property prices, including feat
 **Coming Soon**
 
 ### 🛒 Bike Store Analysis
-PostgreSQL | SQL
+**PostgreSQL | SQL**
 
 **Coming Soon**
 
 ### 🤖 MNIST Image Recognition
 Classification | Python | scikit-learn | Neural Networks
+
+**Coming Soon**
 
 ---
 
@@ -96,14 +94,10 @@ I'm now applying those skills to data science and analytics.
 
 ## 🔗 Personal Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/raymon-watson-56087419b)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)]([YOUR_GITHUB_URL](https://github.com/Raymon-Watson))
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:raymonswatson@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](YOUR_GITHUB_URL)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:YOUR_EMAIL)
-
-<!-- Optional -->
-[![Website](https://img.shields.io/badge/Website-Portfolio-green)](YOUR_WEBSITE_URL)
 
 ---
 
