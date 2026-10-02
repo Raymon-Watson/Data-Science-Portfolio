@@ -1,8 +1,11 @@
 # Data Science Portfolio
 
 # Hi, I'm Raymon 👋
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/raymon-watson-56087419b)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)]([YOUR_GITHUB_URL](https://github.com/Raymon-Watson))
+
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/Raymon-Watson)
+
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:raymonswatson@gmail.com)
 
 I'm a physics researcher transitioning into **data science and analytics**, with a background in numerical modelling, quantitative research, and scientific computing.
