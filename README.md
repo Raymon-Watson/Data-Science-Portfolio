@@ -30,7 +30,13 @@ Analysed customer and transaction data using joins, CTEs, aggregations, window f
 
 [View project →](./D2C-Skincare-Analysis/)
 
-### 🏠 AirBnB Listing Price Prediction
+
+### ⚡ Queensland Energy Market Analysis
+**Power BI | DAX | Data Modelling**
+
+**Coming Soon**
+
+<!---### 🏠 AirBnB Listing Price Prediction
 **Regression | Python | scikit-learn**
 
 Built and evaluated regression models to predict AirBnB listing prices, including feature engineering, target transformation, and model tuning.
@@ -51,7 +57,7 @@ Built and evaluated regression models to predict AirBnB listing prices, includin
 ### 🤖 MNIST Image Recognition
 Classification | Python | scikit-learn | Neural Networks
 
-**Coming Soon**
+**Coming Soon**-->
 
 ---
 
