@@ -8,7 +8,7 @@
 
 I'm a physics researcher transitioning into **data science and analytics**, with a background in numerical modelling, quantitative research, and scientific computing.
 
-This repository contains a set of data science projects - completed for self-learning - using **Python, SQL, machine learning, and Power BI** to analyse data, build predictive models and communicate results.
+This repository contains a set of data science projects - completed for self-learning - using **Python, SQL, machine learning, and Power BI** to analyse data, build predictive models and communicate results. For a longer list of projects, visit my [profile page](https://github.com/Raymon-Watson).
 
 
 ---
